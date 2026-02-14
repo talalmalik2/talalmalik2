@@ -33,4 +33,4 @@ I believe that being a developer is 20% writing code and 80% troubleshooting. Wh
 ---
 
 ### 📫 Connect with me
-* **Portfolio:** [Your GitHub Repo Link here]
+* **Portfolio:** [[Your GitHub Repo Link here](https://github.com/talalmalik2/talalmalik2/blob/main/README.md)]
