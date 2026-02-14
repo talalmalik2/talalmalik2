@@ -5,7 +5,7 @@ I build tools that bridge the gap between AI and the Spotify listener experience
 
 ---
 
-## 🎧 Featured Project: [Spotify Pulse AI](https://github.com/YOUR_USERNAME/spotify-pulse)
+## 🎧 Featured Project: [Spotify Pulse AI](https://github.com/talalmalik2/-Spotify-Pulse-AI)
 > *An intelligent recommendation engine that goes beyond the "Daily Mix."*
 
 I used my background in **Artificial Intelligence (CS50AI)** and **Computer Science (CS50x)** to create a tool that analyzes the acoustic features of your top tracks (tempo, energy, valence) and suggests new music using a K-Nearest Neighbors approach.
