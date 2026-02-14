@@ -10,7 +10,6 @@ I build tools that bridge the gap between AI and the Spotify listener experience
 
 I used my background in **Artificial Intelligence (CS50AI)** and **Computer Science (CS50x)** to create a tool that analyzes the acoustic features of your top tracks (tempo, energy, valence) and suggests new music using a K-Nearest Neighbors approach.
 
-**[ 🔗 Explore the Repository ]** | **[ 📺 Watch the Demo ]**
 
 ### 🛠 Core Capabilities:
 * **Feature Extraction:** Fetches real-time data from the Spotify Web API.
