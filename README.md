@@ -1,41 +1,38 @@
-# Hi, I'm Talal 👋 
+# 👋 Hi, I'm Talal Umer
+**Aspiring Software Engineer | AI Enthusiast | Problem Solver**
 
-### 🚀 Software Engineering Student | Focused on Music Information Retrieval (MIR)
-I build tools that bridge the gap between AI and the Spotify listener experience.
-
----
-
-## 🎧 Featured Project: [Spotify Pulse AI](https://github.com/talalmalik2/-Spotify-Pulse-AI)
-> *An intelligent recommendation engine that goes beyond the "Daily Mix."*
-
-I used my background in **Artificial Intelligence (CS50AI)** and **Computer Science (CS50x)** to create a tool that analyzes the acoustic features of your top tracks (tempo, energy, valence) and suggests new music using a K-Nearest Neighbors approach.
-
-
-### 🛠 Core Capabilities:
-* **Feature Extraction:** Fetches real-time data from the Spotify Web API.
-* **AI Logic:** Filters recommendations based on user-defined "mood" parameters.
-* **OAuth 2.0:** Secure user authentication for personalized data access.
+I am a student developer based in Mississauga, ON, currently bridging the gap between high-level logic and functional software. My journey started with a fascination for how systems work—from automotive diagnostics to global logistics—and has evolved into building AI-driven applications.
 
 ---
 
-### 🧠 Technical Foundation
-While I am currently focused on music tech, my engineering foundation is built on:
-* **AI & Algorithms:** Proficient in Search, Optimization, and Neural Networks.
-* **Software Architecture:** Hands-on experience building interactive systems in Java and C.
-* **Systems Thinking:** Background in logistics optimization and automotive diagnostics.
+### 🚀 Featured Project: Pulse AI
+**[Check out the repository here](https://github.com/talalmalik2/-Spotify-Pulse-AI)**
+* **What it is:** A music discovery engine that analyzes 50,000+ songs to find acoustic matches using **Cosine Similarity**.
+* **The Tech:** Python, Scikit-learn, Pandas, and Streamlit.
+* **The Story:** Originally intended for the Spotify API, I pivoted to a local data-science approach to ensure reliability and depth of analysis. This project reflects my ability to handle complex data and adapt when technical roadblocks arise.
 
 ---
 
-### 📈 Current Focus
-* 🛠 Improving the Recommendation Algorithm for Spotify Pulse.
-* 🎓 Completing my Secondary Education in Mississauga, ON.
-* ⚡ Seeking the Spotify Dev Degree to build at scale.
+### 🛠 My Tech Stack
+* **Languages:** Python (Advanced), Java (OOP), C, SQL.
+* **AI & Machine Learning:** Neural Networks, Search Algorithms, Reinforcement Learning.
+* **Tools & Frameworks:** Git/GitHub, Streamlit, TensorFlow, Scikit-learn, AutoCAD.
 
 ---
 
-### 📫 Let's Connect
-[LinkedIn](YOUR_LINKEDIN_LINK) | [Email](mailto:YOUR_EMAIL)
+### 🎓 Education & Certifications
+* **Harvard CS50AI & CS50x Graduate:** Mastered fundamentals of computer science and artificial intelligence through intensive project-based learning.
+* **IGCSE Distinction & High Achiever Award:** Recognized for top academic performance (2022).
+* **CyberStart Canada:** Developed foundational skills in cybersecurity and ethical hacking.
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=spotify&hide_border=true" alt="Talal's Stats" />
-</p>
+---
+
+### 📊 My Philosophy
+I believe that being a developer is 20% writing code and 80% troubleshooting. Whether I'm fixing a **403 Git Authentication error** or optimizing a neural network, I thrive on the challenge of making things work better than I found them.
+
+---
+
+### 📫 Connect with me
+* **LinkedIn:** [Your LinkedIn URL here]
+* **Portfolio:** [Your GitHub Repo Link here]
+* **Currently Learning:** Advanced Scalability & Cloud Deployment
