@@ -33,6 +33,4 @@ I believe that being a developer is 20% writing code and 80% troubleshooting. Wh
 ---
 
 ### 📫 Connect with me
-* **LinkedIn:** [Your LinkedIn URL here]
 * **Portfolio:** [Your GitHub Repo Link here]
-* **Currently Learning:** Advanced Scalability & Cloud Deployment
